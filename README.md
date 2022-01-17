@@ -19,6 +19,11 @@ And then execute:
 Or install it yourself as:
 
     $ gem install ToDoMVC
+    
+Or Docker build it yourself as:
+
+    $ docker build -t cucumber-ruby-selenium-todomvc-app .
+    
 
 ## Usage
 
